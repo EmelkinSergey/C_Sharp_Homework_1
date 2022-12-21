@@ -15,17 +15,11 @@ if (num2 > max)
 {
     max = num2;    
 }
-else
-{
-    max = num1;
-}
+
 if (num3 > max)
 {
     max = num3;
 }
-else
-{
-    max = num1;
-}
+
 
 Console.Write($"Максимальное число равно: {max}");
