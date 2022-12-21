@@ -1,0 +1,16 @@
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_1/Task-2/obj/Debug/net6.0/Task-2.GlobalUsings.g.cs
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_1/Task-2/obj/Debug/net6.0/Task-2.csproj.AssemblyReference.cache
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_1/Task-2/obj/Debug/net6.0/Task-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_1/Task-2/obj/Debug/net6.0/Task-2.AssemblyInfoInputs.cache
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_1/Task-2/obj/Debug/net6.0/Task-2.AssemblyInfo.cs
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_1/Task-2/obj/Debug/net6.0/Task-2.csproj.CoreCompileInputs.cache
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_1/Task-2/bin/Debug/net6.0/Task-2
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_1/Task-2/bin/Debug/net6.0/Task-2.deps.json
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_1/Task-2/bin/Debug/net6.0/Task-2.runtimeconfig.json
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_1/Task-2/bin/Debug/net6.0/Task-2.dll
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_1/Task-2/bin/Debug/net6.0/ref/Task-2.dll
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_1/Task-2/bin/Debug/net6.0/Task-2.pdb
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_1/Task-2/obj/Debug/net6.0/Task-2.dll
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_1/Task-2/obj/Debug/net6.0/ref/Task-2.dll
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_1/Task-2/obj/Debug/net6.0/Task-2.pdb
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_1/Task-2/obj/Debug/net6.0/Task-2.genruntimeconfig.cache
